@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Mde662CT9VnVm7/8s5uP4q7DRhlNfM46IAUhbvnX6Ck=",
+  "Source": "projetoWebLhPetsV1",
+  "BasePath": "_content/projetoWebLhPetsV1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projetoWebLhPetsV1\\wwwroot",
+      "Source": "projetoWebLhPetsV1",
+      "ContentRoot": "C:\\Users\\anaju\\OneDrive\\Documentos\\programming\\senai\\projetoWebLhPetsV1\\wwwroot\\",
+      "BasePath": "_content/projetoWebLhPetsV1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\anaju\\OneDrive\\Documentos\\programming\\senai\\projetoWebLhPetsV1\\wwwroot\\index.html",
+      "SourceId": "projetoWebLhPetsV1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anaju\\OneDrive\\Documentos\\programming\\senai\\projetoWebLhPetsV1\\wwwroot\\",
+      "BasePath": "_content/projetoWebLhPetsV1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

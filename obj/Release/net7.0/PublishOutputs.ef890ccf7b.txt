@@ -1,0 +1,13 @@
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\projetoWebLhPetsV1.exe
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\appsettings.json
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\projetoWebLhPetsV1.dll
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\projetoWebLhPetsV1.deps.json
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\projetoWebLhPetsV1.runtimeconfig.json
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\projetoWebLhPetsV1.pdb
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Documentos\programming\senai\projetoWebLhPetsV1\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
